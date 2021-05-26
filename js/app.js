@@ -3,7 +3,7 @@ baguetteBox.run('.gallery');
 
 function myFunction() {
   // Declare variables
-  console.log('myFunction engaged')
+  console.log('myFunction engaged');
   var input, filter, parent, child, a, i, txtValue;
   input = document.getElementById('searchInput');
   filter = input.value.toLowerCase();
